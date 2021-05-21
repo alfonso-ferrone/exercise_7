@@ -3,4 +3,3 @@ scipy
 Pillow
 matplotlib
 pywavelets
-skimage
