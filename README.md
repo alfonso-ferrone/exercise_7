@@ -3,6 +3,8 @@
 This repository contains the jupyter notebook and the data needed for the exercise 7 of the Remote Sensing course.
 
 To tun the exercise, the service **binder** [1] will be used.
+The current exercise URL is:
+https://mybinder.org/v2/gh/alfonso-ferrone/exercise_7.git/HEAD
 
 Once you have access to the correct binder URL for the exercise, click on the Exercise 7.ipynb to start the notebook.
 The latter contains both the exercise instructions and the code.
